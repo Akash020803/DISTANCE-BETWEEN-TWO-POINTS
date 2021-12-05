@@ -24,7 +24,7 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![github logo](distance_eq.png)
+![github logo](Distance_eq.png)
 
 
 ### RESULT:
